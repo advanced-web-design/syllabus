@@ -4,7 +4,7 @@
 - **Instructor:** Adam Scott, [adam.scott@uconn.edu](mailto: adam.scott@uconn.edu)
 - **Need help?**
 	- Look through the course materials and create [issues](https://github.com/advanced-web-design/syllabus/issues)
-- [Email](mailto: adam.scott@uconn.edu) me with questions or to schedule a time to meet for help.
+	- [Email](mailto: adam.scott@uconn.edu) me with questions or to schedule a time to meet for help.
 
 ## Course Description
 
@@ -22,6 +22,10 @@
 ## Resources
 
 ## Grading
+
+## Student Code
+
+You are responsible for acting in accordance with the [University of Connecticut's Student Code](http://community.uconn.edu/the-student-code-preamble/). Review and become familiar with these expectations.
 
 ## Acknowledgements
 
