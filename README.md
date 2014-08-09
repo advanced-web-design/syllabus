@@ -15,13 +15,56 @@
 
 ## Course Overview
 
+## Topics covered
+
+- Usability
+- Accessibility
+- Git/Github.com
+- JavaScript essentials
+- jQuery essentials
+- Designing & building from static comps
+- Designing for a CMS
+
 ## Homework/Projects
 
 ## Course Outline
 
 ## Resources
 
+### Required Reading
+
+- [Don't Make Me Think](http://www.amazon.com/dp/0321965515/)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+### Interactive Tutorials
+
+- [Code Academy: JavaScript](http://www.codecademy.com/en/tracks/javascript)
+- [Code Academy: jQuery](http://www.codecademy.com/en/tracks/jquery)
+- [Try jQuery](http://try.jquery.com/)
+
+### Recommended Blogs
+
+- [A List Apart](http://alistapart.com/)
+- [CSS-Tricks](http://css-tricks.com/)
+- [Smashing Magazine](http://www.smashingmagazine.com/)
+
+### Design Inspiration
+
+- [Niice](https://niice.co/)
+- [dribbble](https://dribbble.com/)
+
+### Git and Github
+- Git and GitHub
+    - [Official GitHub Help](https://help.github.com/)
+    - [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+- GitHub Pages
+    - [Official site](http://pages.github.com/)
+    - [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
 ## Grading
+
+**Assignments/Projects:** 70%
+**Class participation:** 30%
 
 ## Student Code
 
