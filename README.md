@@ -63,8 +63,8 @@
 
 ## Grading
 
-**Assignments/Projects:** 70%
-**Class participation:** 30%
+- **Assignments/Projects:** 70%
+- **Class participation:** 30%
 
 ## Student Code
 
