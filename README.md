@@ -6,8 +6,6 @@
 	- Look through the course materials and create [issues](https://github.com/advanced-web-design/syllabus/issues)
 	- [Email](mailto: adam.scott@uconn.edu) me with questions or to schedule a time to meet for help.
 
-## Course Description
-
 ## Prerequisites
 
 - [DMD1070 Fundamentals of Web Design](http://dmd1070.github.io/)
@@ -15,17 +13,13 @@
 
 ## Course Overview
 
-## Topics covered
+The Advanced Web Design course is designed to prepare students for professional web design work. The class will be a mix of theoretical/soft skills and practical front-end techniques. We will cover usability, accessibility, design professionalism, git/github.com, JavaScript, jQuery, designing and developing from static comps, and designing for a content management system. By the end of this course, students should have a solid understanding of the web design industry and modern web design techniques.  
 
-- Usability
-- Accessibility
-- Git/Github.com
-- JavaScript essentials
-- jQuery essentials
-- Designing & building from static comps
-- Designing for a CMS
+## Assignments
 
-## Homework/Projects
+All assignments will be described at the assignments repo, <https://github.com/advanced-web-design/assignments>.
+
+Assignments are expected to be completed **before** the beginning of the class on the given due date.
 
 ## Course Outline
 
@@ -52,6 +46,10 @@
 
 - [Niice](https://niice.co/)
 - [dribbble](https://dribbble.com/)
+
+### Design Resources
+
+- [Subtle Patterns](http://subtlepatterns.com/)
 
 ### Git and Github
 - Git and GitHub
