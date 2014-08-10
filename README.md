@@ -21,8 +21,6 @@ All assignments will be described at the assignments repo, <https://github.com/a
 
 Assignments are expected to be completed **before** the beginning of the class on the given due date.
 
-## Course Outline
-
 ## Resources
 
 ### Required Reading
