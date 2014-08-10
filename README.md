@@ -51,6 +51,12 @@ Assignments are expected to be completed **before** the beginning of the class o
 
 - [Subtle Patterns](http://subtlepatterns.com/)
 
+### Development Resources
+
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
+- [WebPlatform.org](http://www.webplatform.org/)
+
 ### Git and Github
 - Git and GitHub
     - [Official GitHub Help](https://help.github.com/)
