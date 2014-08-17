@@ -26,6 +26,7 @@ Assignments are expected to be completed **before** the beginning of the class o
 ### Required Reading
 
 - [Don't Make Me Think](http://www.amazon.com/dp/0321965515/)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ### Interactive Tutorials
@@ -39,14 +40,19 @@ Assignments are expected to be completed **before** the beginning of the class o
 - [A List Apart](http://alistapart.com/)
 - [CSS-Tricks](http://css-tricks.com/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
+- [Codrops](http://tympanus.net/codrops/)
+- [Web Platform Daily](http://webplatformdaily.org/)
 
-### Design Inspiration
+## Recommended email Lists
+
+- [Web Design Weekly](http://web-design-weekly.com/)
+- [CSS Weekly](http://css-weekly.com/)
+- [JavaScript Weekly](http://javascriptweekly.com/)
+
+### Design Resources & Inspiration
 
 - [Niice](https://niice.co/)
 - [dribbble](https://dribbble.com/)
-
-### Design Resources
-
 - [Subtle Patterns](http://subtlepatterns.com/)
 
 ### Development Resources
@@ -54,6 +60,7 @@ Assignments are expected to be completed **before** the beginning of the class o
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
 - [WebPlatform.org](http://www.webplatform.org/)
+- [Code Guide by @mdo](http://codeguide.co/)
 
 ### Git and Github
 - Git and GitHub
