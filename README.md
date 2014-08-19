@@ -61,6 +61,7 @@ Assignments are expected to be completed **before** the beginning of the class o
 - [Niice](https://niice.co/)
 - [dribbble](https://dribbble.com/)
 - [Subtle Patterns](http://subtlepatterns.com/)
+- [The Noun Project](http://thenounproject.com/)
 
 ### Development resources
 
