@@ -21,9 +21,24 @@ All assignments will be described at the assignments repo, <https://github.com/a
 
 Assignments are expected to be completed **before** the beginning of the class on the given due date.
 
+## Grading
+
+- **Assignments/Projects:** 70%
+- **Class participation:** 30%
+
+## Student Code
+
+You are responsible for acting in accordance with the [University of Connecticut's Student Code](http://community.uconn.edu/the-student-code-preamble/). Review and become familiar with these expectations.
+
+## Writing Center
+
+The Writing Center is part of the Source for Active Learning, which serves the campus as both a Writing Center and a Q Center. It is located in the Learning Commons area, on the first floor of the Jeremy Richard Library. Our undergraduate writing tutors offer one-on-one tutoring during the day in fall and spring semesters. You can make a Writing Center appointment at <http://advapp.uconn.edu>
+
 ## Resources
 
 ### Required reading
+
+Portions or all of the following text will be required reading for this course:
 
 - [Don't Make Me Think](http://www.amazon.com/dp/0321965515/)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
@@ -77,15 +92,6 @@ Assignments are expected to be completed **before** the beginning of the class o
 - GitHub Pages
     - [Official site](http://pages.github.com/)
     - [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-
-## Grading
-
-- **Assignments/Projects:** 70%
-- **Class participation:** 30%
-
-## Student Code
-
-You are responsible for acting in accordance with the [University of Connecticut's Student Code](http://community.uconn.edu/the-student-code-preamble/). Review and become familiar with these expectations.
 
 ## Acknowledgements
 
