@@ -11,7 +11,7 @@
 - [DMD1070 Fundamentals of Web Design](http://dmd1070.github.io/)
 - Knowledge of HTML & CSS
 
-## Course Overview
+## Course overview
 
 The Advanced Web Design course is designed to prepare students for professional web design work. The class will be a mix of theoretical/soft skills and practical front-end techniques. We will cover usability, accessibility, design professionalism, git/github.com, JavaScript, jQuery, designing and developing from static comps, and designing for a content management system. By the end of this course, students should have a solid understanding of the web design industry and modern web design techniques.  
 
@@ -23,19 +23,19 @@ Assignments are expected to be completed **before** the beginning of the class o
 
 ## Resources
 
-### Required Reading
+### Required reading
 
 - [Don't Make Me Think](http://www.amazon.com/dp/0321965515/)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-### Interactive Tutorials
+### Interactive tutorials
 
 - [Code Academy: JavaScript](http://www.codecademy.com/en/tracks/javascript)
 - [Code Academy: jQuery](http://www.codecademy.com/en/tracks/jquery)
 - [Try jQuery](http://try.jquery.com/)
 
-### Recommended Blogs
+### Recommended blogs
 
 - [A List Apart](http://alistapart.com/)
 - [CSS-Tricks](http://css-tricks.com/)
@@ -43,19 +43,19 @@ Assignments are expected to be completed **before** the beginning of the class o
 - [Codrops](http://tympanus.net/codrops/)
 - [Web Platform Daily](http://webplatformdaily.org/)
 
-## Recommended email Lists
+## Recommended email lists
 
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [CSS Weekly](http://css-weekly.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
 
-### Design Resources & Inspiration
+### Design resources & inspiration
 
 - [Niice](https://niice.co/)
 - [dribbble](https://dribbble.com/)
 - [Subtle Patterns](http://subtlepatterns.com/)
 
-### Development Resources
+### Development resources
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
