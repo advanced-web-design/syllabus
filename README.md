@@ -49,6 +49,13 @@ Assignments are expected to be completed **before** the beginning of the class o
 - [CSS Weekly](http://css-weekly.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
 
+## Recommended podcasts
+
+- [99% Invisible](http://99percentinvisible.org/)
+- [Shop Talk Show](http://shoptalkshow.com/)
+- [The Big Web Show](http://5by5.tv/bigwebshow)
+- [Responsive Web Design](http://responsivewebdesign.com/podcast/)
+
 ### Design resources & inspiration
 
 - [Niice](https://niice.co/)
