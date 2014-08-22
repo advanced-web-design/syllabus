@@ -21,6 +21,12 @@ All assignments will be described at the assignments repo, <https://github.com/a
 
 Assignments are expected to be completed **before** the beginning of the class on the given due date.
 
+## Attendance expectations
+
+Class attendance is essential to your success in this course. The topics discussed in class will build upon one another and working during class time allows us to collaborate. **If you are going to miss a class, email me prior to the start of class.**
+
+After 3 missed classes, each missed class (including the original 3) will result in a **5% deduction** from the class participation grade.
+
 ## Grading
 
 - **Assignments/Projects:** 70%
@@ -77,6 +83,11 @@ Portions or all of the following text will be required reading for this course:
 - [dribbble](https://dribbble.com/)
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [The Noun Project](http://thenounproject.com/)
+
+### UX resources
+
+- [52 Weeks of UX](http://52weeksofux.com/)
+- [UX Apprentice](http://www.uxapprentice.com/)
 
 ### Development resources
 
