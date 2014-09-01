@@ -81,6 +81,8 @@ Portions or all of the following text will be required reading for this course:
 
 - [Niice](https://niice.co/)
 - [dribbble](https://dribbble.com/)
+- [Resources](https://medium.com/@de/resources-799d16952a56) by Dan Edwards (this list is *epic*)
+- [Free Design Resources](https://medium.com/@ingojoseph/free-design-resources-187bb30cc762)
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [The Noun Project](http://thenounproject.com/)
 
