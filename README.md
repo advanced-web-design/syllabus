@@ -97,6 +97,7 @@ Portions or all of the following text will be required reading for this course:
 - [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
 - [WebPlatform.org](http://www.webplatform.org/)
 - [Code Guide by @mdo](http://codeguide.co/)
+- [The Magic of CSS](http://adamschwartz.co/magic-of-css/)
 
 ### Git and Github
 - Git and GitHub
