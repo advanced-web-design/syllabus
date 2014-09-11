@@ -107,6 +107,10 @@ Portions or all of the following text will be required reading for this course:
     - [Official site](http://pages.github.com/)
     - [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
+### Other Resources
+
+- [Namecheap Student/Education Domain Registration](https://www.nc.me/)
+
 ## Acknowledgements
 
 The structure of this syllabus is based on [NYU's Advanced JavaScript](https://github.com/advanced-js/syllabus#course-outline) course.
