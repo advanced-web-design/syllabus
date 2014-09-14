@@ -85,6 +85,10 @@ Portions or all of the following text will be required reading for this course:
 - [Free Design Resources](https://medium.com/@ingojoseph/free-design-resources-187bb30cc762)
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [The Noun Project](http://thenounproject.com/)
+- [Photoshop Grids](http://www.ravelrumba.com/photoshop-grids/)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- [Flat UI Colors](http://flatuicolors.com/)
+- [Flat UI Color Picker](http://www.flatuicolorpicker.com/)
 
 ### UX resources
 
