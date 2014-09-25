@@ -4,4 +4,5 @@
 4. Static Mockups
 5. Static Mockups Continued (individual work time)
 6. A (re)Introduction to HTML & CSS
-7. Building our Static Comp
+7. Design comp peer feedback
+8. Building a site from a Static Comp
